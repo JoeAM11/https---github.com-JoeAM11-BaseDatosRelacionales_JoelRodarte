@@ -44,6 +44,10 @@ La mayoria de las variables tienen relacion directa con la cancion. Si se desear
 
 <br/><br/>
 
+![Test](Tarea1Diagram.png)
+
+<br/><br/>
+
 > SGBD --> Sistema Gestor de Base Datos <br/>
   SQL = Stuctured Query Language 
 
@@ -75,7 +79,7 @@ ALgunas de las opciones más conocidas, por mencionar algunas,  del mercado son:
 * Muchos foros constatan que los requerimientos de hardware son bajos para poder hacer proyectos poderosos. 
 * Estas ventajas y que el modelo relacional es lo que mas hemos cubierto en clase me ha llevado a tomar la desicion de utilizar MySQL.
 
-![Test](test.png)
+
 
 
 
