@@ -18,9 +18,14 @@ Relaciones:
 * Una cancion tiene un review / Una calificacion puede ser usada en varias canciones 
 * Una cacion tiene unos atributos / Unos atributos describen a una cacion. 
 
-![Diagrame Entidad Relacion Tarea 2 ](Tarea2_DiagramaER.png)
+![Diagrame Entidad Relacion Tarea 2 ](Tarea2_DiagramaER_correccion.png)
 
 Lecciones aprendidas:
 
 * Respecto a la tarea 1 he eliminado la variable de seguidores en redes sociales puesto que es un atribute que cambia con el tiempo y no cumple con la definicion de una entidad. 
 * De ser necesario tener mas relaciones,al artista le puedo agregar la fecha en la que inicio la banda. Probablemente especificando solamente el año. 
+
+Upgrades después de clase: 
+* Cambiar y unir todos los atributos de la cacione directamente a la entidad Song.
+* Añadir una entidad nueva de subgenero en lugar de ser un atributo de genero, esto para mejor y más fácil manejo de datos. 
+* Añadí las relaciones que había olivdado añadir (1-N o N-N)
