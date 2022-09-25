@@ -29,3 +29,6 @@ Upgrades después de clase:
 * Cambiar y unir todos los atributos de la cacione directamente a la entidad Song.
 * Añadir una entidad nueva de subgenero en lugar de ser un atributo de genero, esto para mejor y más fácil manejo de datos. 
 * Añadí las relaciones que había olivdado añadir (1-N o N-N)
+
+
+Prueba
