@@ -18,7 +18,7 @@ Relaciones:
 * Una cancion tiene un review / Una calificacion puede ser usada en varias canciones 
 * Una cacion tiene unos atributos / Unos atributos describen a una cacion. 
 
-![Diagrame Entidad Relacion Tarea 2 ](Tarea2_DiagramaER_correccion.png)
+![Diagrama Entidad Relacion Tarea 2 ](Tarea2_DiagramaER_correccion.png)
 
 Lecciones aprendidas:
 
