@@ -5,12 +5,12 @@ SHOW DATABASES
 
 #### Eliminar Tablas ###############################
 
-DROP TABLE artist_origin;
-DROP TABLE album;
-DROP TABLE genre ;
-DROP TABLE subgenre;
-DROP TABLE song;
-DROP TABLE artist; 
+DROP TABLE IF EXISTS artist_origin;
+DROP TABLE IF EXISTS album;
+DROP TABLE IF EXISTS genre ;
+DROP TABLE IF EXISTS subgenre;
+DROP TABLE IF EXISTS song;
+DROP TABLE IF EXISTS  artist; 
 
 #################################################
 
