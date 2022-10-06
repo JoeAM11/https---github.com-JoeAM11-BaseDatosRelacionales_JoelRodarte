@@ -68,3 +68,5 @@ Ejemplo: Album (id, nombre) o Album(id)
 Lo mismo sucede con artist, genre, subgenre,review
 2. En continente necesito un ATRIBUTO que se llame continente? 
 3. Cuando SI tengo que crear una tabla extra en mucho a muchos. Cuando en la tabla de mucho a mucho tambien tengo atributos unicos para esa nueva tabla? 
+4. ¿Como se podria hacer un contador? Es decir al sacar la tabla de los artistas, como contar el que mas se repita. 
+4. Practicar las operaciones algebraicas en el formato de instruccion de computadora, a mano parece ser quedo claro. 
