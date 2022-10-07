@@ -107,7 +107,7 @@ INSERT INTO artist (artist_name) VALUES
 	('Alice Deejay'),
 	('Gigi DAgostino'),
 	('Dr. Dre'),
-	('Linkin Park')
+	('Linkin Park');
 
 INSERT INTO song (song_name,duration,explicit,release_year,popularity,danceability,energy,song_key,loudness,song_mode,speechiness,acousticness,instrumentalness, liveness,valence,tempo,artist_song) VALUES 
     ('What You Know',189693,0,2010,0,0.55,0.753,6,-4.003,0,0.0407,0.000665,7.74E-06,0.0921,0.841,139.048,1),
@@ -129,7 +129,7 @@ INSERT INTO song (song_name,duration,explicit,release_year,popularity,danceabili
 	('Somebody That I Used To Know',244884,0,2011,57,0.863,0.527,0,-6.896,1,0.0358,0.607,0.000168,0.107,0.674,129.054,17),
 	('Let Me Think About It',151973,0,2012,43,0.762,0.754,0,-3.425,0,0.046,0.00022,0.0665,0.146,0.715,129.026,18),
 	('Thunder in My Heart Again (Radio Edit)',189800,0,2005,46,0.679,0.922,2,-4.67,0,0.0294,0.000241,0.69,0.0697,0.806,129.016,19),
-	('Amazing',265826,0,2004,57,0.805,0.754,10,-6.825,0,0.0394,0.0884,1.77E-06,0.117,0.88,128.429,20)
+	('Amazing',265826,0,2004,57,0.805,0.754,10,-6.825,0,0.0394,0.0884,1.77E-06,0.117,0.88,128.429,20);
 
 INSERT INTO album (album_name,album_song) VALUES
 	('album_1',1),
@@ -151,7 +151,7 @@ INSERT INTO album (album_name,album_song) VALUES
     ('album_17',17),
     ('album_18',18),
     ('album_19',19),
-    ('album_20',20)
+    ('album_20',20);
   
 
 INSERT INTO genre (genre_name,genre_song) VALUES
@@ -174,7 +174,7 @@ INSERT INTO genre (genre_name,genre_song) VALUES
     ('genre_17',17),
     ('genre_18',18),
     ('genre_19',19),
-    ('genre_20',20)
+    ('genre_20',20);
     
 INSERT INTO subgenre (subgenre_name,subgenre_song) VALUES
 	('subgenre_1',1),
@@ -196,7 +196,7 @@ INSERT INTO subgenre (subgenre_name,subgenre_song) VALUES
     ('subgenre_17',17),
     ('subgenre_18',18),
     ('subgenre_19',19),
-    ('subgenre_20',20)
+    ('subgenre_20',20);
 
 INSERT INTO artist_origin (continent_name,country,city,artist_origin) VALUES
 	('con1','cou1','cit1',1),
@@ -218,7 +218,7 @@ INSERT INTO artist_origin (continent_name,country,city,artist_origin) VALUES
     ('con17','cou17','cit17',17),
     ('con18','cou18','cit18',18),
     ('con19','cou19','cit19',19),
-    ('con20','cou20','cit20',20)
+    ('con20','cou20','cit20',20);
     
 ### DESCRIBIR TABLAS ###########################
 
